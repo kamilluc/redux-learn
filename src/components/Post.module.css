@@ -1,0 +1,12 @@
+.Score{
+    color: orangered;
+    font-weight: 600;
+}
+
+.Plus{
+    color: springgreen;
+}
+
+.Minus{
+    color: red;
+}
